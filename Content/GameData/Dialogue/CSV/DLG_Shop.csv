@@ -4,7 +4,8 @@ Shop_A1,0,1,This conversation happens when the player meets Billy for the first 
 Shop_A2,0,2,Billy teaches the player about the different kinds of gear the shop deals with.
 Shop_A3,0,3,/SHOP
 Shop_A4,0,4,Thanks for stopping by! Good luck out there today!
-Shop_A5,0,5,/DONE
+Shop_A5,0,5,/UNIQUE
+Shop_A6,0,6,/DONE
 Shop_B0,1,0,This is conversation B with Billy!
 Shop_B1,1,1,This conversation happens after meeting Billy for the first time.
 Shop_B2,1,2,It is the normal conversation the player will have when they visit the shop.

@@ -1,26 +1,32 @@
 ,Conversation_ID,Line_ID,Text
 Terry_intro_0,0,0,This is conversation A with Terry!
 Terry_intro_1,0,1,This conversation happens when the player meets Terry for the first time.
-Terry_intro_2,0,2,/DONE
+Terry_intro_2,0,2,/UNIQUE
+Terry_intro_3,0,3,/DONE
 Terry_A0_0,1,0,This is conversation A0 with Terry!
 Terry_A0_1,1,1,The player gets their first quest from Terry.
 Terry_A0_2,1,2,/QUEST SpeciesA
 Terry_A0_3,1,3,/DONE
 Terry_A1_0,2,0,This is conversation A1 with Terry!
 Terry_A1_1,2,1,Terry congratulates the player for completing the first quest.
-Terry_A1_2,2,2,/DONE
+Terry_A1_2,2,2,/UNIQUE
+Terry_A1_3,2,3,/DONE
 Terry_B0_0,3,0,This is conversation B0 with Terry!
 Terry_B0_1,3,1,The player gets their second quest from Terry.
-Terry_B0_2,3,2,/DONE
+Terry_B0_2,3,2,/QUEST SpeciesB
+Terry_B0_3,3,3,/DONE
 Terry_B1_0,4,0,This is conversation B1 with Terry!
 Terry_B1_1,4,1,Terry congratulates the player for completing the second quest.
-Terry_B1_2,4,2,/DONE
+Terry_B1_2,4,2,/UNIQUE
+Terry_B1_3,4,3,/DONE
 Terry_C0_0,5,0,This is conversation C0 with Terry!
 Terry_C0_1,5,1,The player gets their third quest from Terry.
-Terry_C0_2,5,2,/DONE
+Terry_C0_2,5,2,/QUEST SpeciesC
+Terry_C0_3,5,3,/DONE
 Terry_C1_0,6,0,This is conversation C1 with Terry!
 Terry_C1_1,6,1,Terry congratulates the player for completing the third quest.
-Terry_C1_2,6,2,/DONE
+Terry_C1_2,6,2,/UNIQUE
+Terry_C1_3,6,3,/DONE
 Terry_final_0,7,0,This is the final conversation with Terry!
 Terry_final_1,7,1,This conversation happens after the player has completed all of Terry's quests.
 Terry_final_2,7,2,/DONE
